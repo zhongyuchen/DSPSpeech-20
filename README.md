@@ -14,11 +14,11 @@ A speech dataset of 20 isolated words each with 720 recordings from 36 individua
 
 Each audio file is a recording of an isolated word. The audio files are named as `speech_data/<ID>/<ID>-<LABEL>-<ROUND>.wav`.
 
-### ID
+### <ID>
 
 Audio files with the same `<ID>` are contributed by the same individual.
 
-### LABEL
+### <LABEL>
 
 There is a corresponding isolated word for each `<LABEL>` from `00` to `19`.
 
@@ -30,7 +30,7 @@ There is a corresponding isolated word for each `<LABEL>` from `00` to `19`.
 | ------ | ------ | ------ | ------- | ------- |------ | ------ | ------ | ------- | ------- |
 | 复旦    | 饭店   | Speech | Speaker | Signal  |Process | Print | Open   | Close   | Project |
 
-### ROUND
+### <ROUND>
 
 For each individual, each isolated word is recorded for 20 times, which is indicated by `<ROUND>` from `01` to `20`.
 
