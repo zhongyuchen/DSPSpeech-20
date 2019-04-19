@@ -6,9 +6,9 @@ A speech dataset of 20 isolated words each with 720 recordings from 36 individua
 
 ## Size
 
-* Number of audio files: `36 individuals * 20 words each individual * 20 times each word = 14400 recordings`
-* Size of a single file: 66 KB
-* Total size: 943.2 MB
+* Amount: `36 individuals * 20 words each individual * 20 times each word = 14400 recordings`
+* Size of a single file: __66 KB__
+* Total size: __943.2 MB__
 
 ## Description
 
