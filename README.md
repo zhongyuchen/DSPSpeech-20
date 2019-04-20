@@ -2,17 +2,17 @@
 
 [![MIT license](https://img.shields.io/badge/license-MIT-e78ac3.svg)](https://mit-license.org)
 
-A speech dataset of 20 isolated words each with 720 recordings from 36 individuals
+A speech dataset of 20 isolated words each with 680 recordings from 34 individuals
 
 ## Size
 
-* Amount: `36 individuals * 20 words each individual * 20 times each word = 14400 recordings`
+* Amount: `34 individuals * 20 words each individual * 20 times each word = 13600 recordings`
 * Size of a single file: __66 KB__
-* Total size: __943.2 MB__
+* Total size: __891.5 MB__
 
 ## Description
 
-Each audio file is a recording of an isolated word. The audio files are named as `speech_data/<ID>/<ID>-<LABEL>-<ROUND>.wav`.
+Each audio file is a recording of an isolated word. The audio files are named as `speech_data/<ID>/<ID>-<LABEL>-<ROUND>.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th `Speech` recorded by `16307130194`.
 
 ### `<ID>`
 
