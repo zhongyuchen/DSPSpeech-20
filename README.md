@@ -6,7 +6,10 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 
 ## Size
 
-* Amount: `34 individuals * 20 words each individual * 20 times each word = 13600 recordings`
+* Vocabulary: __20 words__
+* Repetition: __20 times each word__
+* Participant: __34 individuals__
+* Amount: __13600 recordings__
 * Size of a single file: __66 KB__
 * Total size: __891.5 MB__
 
