@@ -47,3 +47,7 @@ These are the important parameters regarding the audio files.
 If you'd like to get more information about the audio files, 
 you can look closely at the header of the files.
 While doing so, keep in mind that it's __little-endian__ format!
+
+## Source
+
+The recordings are contributed by 34 students of _Digital Signal Processing Spring 2019_ and recorded on website https://github.com/czhongyu/audio-collector
