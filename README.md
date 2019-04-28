@@ -4,26 +4,17 @@
 
 A speech dataset of 20 isolated words each with 680 recordings from 34 individuals
 
-## Size
+## Status
 
-* Vocabulary: __20 words__
-* Repetition: __20 times each word__
-* Participant: __34 individuals__
-* Amount: __13600 recordings__
+* Vocabulary: __20 words__ in the following table
+* Speaker: __34 individuals__
+* Amount: __13,600 recordings__ (20 of each word per speaker)
 * Size of a single file: __66 KB__
 * Total size: __891.5 MB__
 
-## Description
+## Vocabulary
 
-Each audio file is a recording of an isolated word. The audio files are named as `speech_data/<ID>/<ID>-<LABEL>-<ROUND>.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th `Speech` recorded by `16307130194`.
-
-### `<ID>`
-
-Audio files with the same `<ID>` are contributed by the same individual.
-
-### `<LABEL>`
-
-There is a corresponding isolated word for each `<LABEL>` from `00` to `19`.
+Each audio file is a recording of an isolated word. The audio files are named as `speech_data/{speakerID}/{speakerID}-{label}-{index}.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th `Speech` recorded by `16307130194`.
 
 |  00    |   01  |    02  |   03  |    04    |    05 |   06   |  07   |    08  |    09    |
 | ------ | ------ | ------ | ------- | ------- |------ | ------ | ------ | ------- | ------- |
@@ -32,10 +23,6 @@ There is a corresponding isolated word for each `<LABEL>` from `00` to `19`.
 |  10    |   11  |    12  |   13  |    14    |    15 |   16   |  17   |    18  |    19    |
 | ------ | ------ | ------ | ------- | ------- |------ | ------ | ------ | ------- | ------- |
 | 复旦    | 饭店   | Speech | Speaker | Signal  |Process | Print | Open   | Close   | Project |
-
-### `<ROUND>`
-
-For each individual, each isolated word is recorded for 20 times, which is indicated by `<ROUND>` from `01` to `20`.
 
 ## Parameters
 
