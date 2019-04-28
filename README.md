@@ -14,7 +14,7 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 
 ## Vocabulary
 
-Each audio file is a recording of an isolated word. The audio files are named as `speech_data/{speakerID}/{speakerID}-{label}-{index}.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th `Speech` recorded by `16307130194`.
+Each audio file is a recording of an isolated word. The audio files are named as `speech_data/{speakerID}/{speakerID}-{label}-{index}.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th word `Speech` recorded by speaker `16307130194`.
 
 |  00    |   01  |    02  |   03  |    04    |    05 |   06   |  07   |    08  |    09    |
 | ------ | ------ | ------ | ------- | ------- |------ | ------ | ------ | ------- | ------- |
