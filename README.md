@@ -8,7 +8,7 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 
 * Vocabulary: __20 words__ in the following table
 * Speaker: __34 individuals__
-* Amount: __13,600 recordings__ (20 of each word per speaker)
+* Amount: __13,599 recordings__ (20 of each word per speaker)
 * Size of a single file: __66 KB__
 * Total size: __891.5 MB__
 
