@@ -35,6 +35,10 @@ If you'd like to get more information about the audio files,
 you can look closely at the header of the files.
 While doing so, keep in mind that it's __little-endian__ format!
 
+## Application
+
+* [speech-classification](https://github.com/czhongyu/speech-classification): CNN and VGG speech classification with interactive website for testing
+
 ## Source
 
-The recordings are contributed by 34 students of _Digital Signal Processing Spring 2019_ and recorded on website https://github.com/czhongyu/audio-collector
+The recordings are contributed by 34 students of _Digital Signal Processing Spring 2019_ and recorded on this [website](https://czhongyu.github.io/audio-collector/). Check [here](https://github.com/czhongyu/audio-collector) for the implementation of the dataset collecting website.
