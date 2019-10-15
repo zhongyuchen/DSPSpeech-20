@@ -10,7 +10,20 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 * Speaker: __34 individuals__
 * Amount: __13,599 recordings__ (20 of each word per speaker)
 * Size of a single file: __66 KB__
-* Total size: __891.5 MB__
+* Uncompressed package size: __891.5 MB__
+* Compressed package size: __521.4 MB__
+
+## Download
+
+* Baidu Cloud
+```
+链接:https://pan.baidu.com/s/1EAon920Ko6aoMx4uAttmcQ  密码:x15n
+```
+
+* GitHub repo
+```
+git clone https://github.com/czhongyu/DSPSpeech-20.git
+```
 
 ## Vocabulary
 
