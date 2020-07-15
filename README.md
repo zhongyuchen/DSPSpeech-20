@@ -22,7 +22,7 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 
 * GitHub repo
 ```
-git clone https://github.com/zychn/DSPSpeech-20.git
+git clone https://github.com/zhongyuchen/DSPSpeech-20.git
 ```
 
 ## Vocabulary
@@ -50,8 +50,8 @@ While doing so, keep in mind that it's __little-endian__ format!
 
 ## Application
 
-* [speech-classification](https://github.com/zychn/speech-classification): CNN and VGG speech classification with interactive website for testing
+* [speech-classification](https://github.com/zhongyuchen/speech-classification): CNN and VGG speech classification with interactive website for testing
 
 ## Source
 
-The recordings are contributed by 34 students of _Digital Signal Processing Spring 2019_ and recorded on this [website](https://zychn.github.io/audio-collector/). Check [here](https://github.com/zychn/audio-collector) for the implementation of the dataset collecting website.
+The recordings are contributed by 34 students of _Digital Signal Processing Spring 2019_ and recorded on this [website](https://zhongyuchen.github.io/audio-collector/). Check [here](https://github.com/zhongyuchen/audio-collector) for the implementation of the dataset collecting website.
