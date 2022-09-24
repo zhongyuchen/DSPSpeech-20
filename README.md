@@ -13,18 +13,6 @@ A speech dataset of 20 isolated words each with 680 recordings from 34 individua
 * Uncompressed package size: __891.5 MB__
 * Compressed package size: __521.4 MB__
 
-## Download
-
-* Baidu Cloud
-```
-链接:https://pan.baidu.com/s/1EAon920Ko6aoMx4uAttmcQ  密码:x15n
-```
-
-* GitHub repo
-```
-git clone https://github.com/zhongyuchen/DSPSpeech-20.git
-```
-
 ## Vocabulary
 
 Each audio file is a recording of an isolated word. The audio files are named as `speech_data/{speakerID}/{speakerID}-{label}-{index}.wav`. For example, `speech_data/16307130194/16307130194-12-16.wav` is the `16`th word `Speech` recorded by speaker `16307130194`.
